@@ -1,0 +1,73 @@
+body, html{
+    background-color: #232323;
+}
+
+
+#hello{
+    text-align: center;
+    background-color: rgb(7, 168, 221);
+    color: white;
+    text-transform: uppercase;
+    padding: 20px 0;
+}
+
+h2{
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+
+.border2{
+    background-color: aliceblue;
+    color: rgb(7, 168, 221);
+    text-align: center;
+}
+
+.hoverover{
+    color: white;
+    background-color: rgb(7, 168, 221);
+}
+
+#newColor{
+    
+}
+
+#lefty{
+}
+
+.centerThing{
+    text-align: center;
+}
+
+.testing{
+    margin-top: 50px;
+}
+
+.square{
+    width: 30%;
+    float: left;
+    padding-bottom: 30%;
+    background-color: blue;
+    margin: 1.66%;
+    border-radius: 25px;
+    transition: background .6s;
+    -webkit-transition: background .6s;
+    -moz-transition: background .6s;
+
+}
+
+#result{
+    display: inline-block;
+    width: 20%;
+}
+.squareContainer{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.selected{
+    background-color: rgb(7, 168, 221);
+    color: white;
+    margin: 0px;
+}
